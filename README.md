@@ -20,9 +20,10 @@ The images taken from this camera are saved inside the files folder of the app o
 </kbd>
 
 <br>
-<br>
+<br><br>
 Clone the repo and give it a try. 
 Min API level is 21.
+
 Thanks.
 
 
