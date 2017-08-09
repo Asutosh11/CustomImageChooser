@@ -1,5 +1,5 @@
 # CustomImageChooser
-This is a custom image chooser Android app that has a <em>custom camera built using Camera2 API</em> and a <em>custom Image gallery</em>.
+This is a custom image chooser Android app that has a <em>custom camera built using Camera2 API</em> and a <em>custom image gallery</em>.
 
 1. In the custom gallery, I'm doing query for all images in the device. I'm populating all the Image folders in a RecyclerView  Grid layout. On selecting any folder, it loads all the images in that folder.
 
