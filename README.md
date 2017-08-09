@@ -11,11 +11,11 @@ The images taken from this camera are saved inside the files folder of the app o
 <kbd>
 <img src="https://github.com/Asutosh11/CustomImageChooser/blob/master/screenshots/1.jpg" alt="Screenshot1" width="300px"/>
 </kbd>
-&nbsp; &nbsp;
+&nbsp;
 <kbd>
 <img src="https://github.com/Asutosh11/CustomImageChooser/blob/master/screenshots/2.jpg" alt="Screenshot2" width="300px"/>
 </kbd>
-&nbsp; &nbsp;
+&nbsp;
 <kbd>
 <img src="https://github.com/Asutosh11/CustomImageChooser/blob/master/screenshots/Screenshot_20170808-095034.jpg" alt="Screenshot3" width="300px"/>
 </kbd>
