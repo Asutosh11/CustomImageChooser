@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="180dp"
+    android:layout_margin="3dp"
+    >
+
+    <ImageView
+        android:id="@+id/folder_thumbnail"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <TextView
+        android:padding="5dp"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:background="#000"
+        android:alpha=".7"
+        android:layout_marginTop="-30dp"
+        android:id="@+id/folder_name"
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+
+</LinearLayout>
